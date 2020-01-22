@@ -50,3 +50,4 @@ Bundles application in production environment. Consist of additional [Webpack](h
 
 Application utilizes [React](https://facebook.github.io/react/ 'React') for building user interfaces, [Redux](http://redux.js.org/ 'Redux') for state management.
 .
+...
